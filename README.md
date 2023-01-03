@@ -1,4 +1,4 @@
-# Shiny
+# Chicago ridership maps
 This repository contains three Chicago's maps regarding the impact of Covid-19 pandemic on bus ridership. I present maps from 2018 to mid-2022 to evaluate the total, percent, and percentile ridership change across streets. Feel free to open the "Figures" file to watch the static plots. Details goes as following: 
 
 + Static 1: Total ridership per year, Jan 2018 – June 2022
